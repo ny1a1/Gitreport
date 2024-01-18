@@ -22,9 +22,12 @@ for i in range(randint(1, 15)):
     sleep(1)
 
 print("Text")
+sleep(0.1)
 print("Text 222")
 print(datetime.today())
 if c in list:
     print("Omg!")
+elif 5 in list:
+    print("Ok!")
 else:
     print("Hello Ukrainian people!")
